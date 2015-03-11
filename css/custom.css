@@ -196,6 +196,20 @@ a:hover {
 	padding: 10px 5% 10px 5%;
 }
 
+.liste{
+	padding : 5px 12%;
+	font-size : 1.2em;
+	font-weight : 300;
+	line-height : 1.6;
+
+}
+.liste li {
+	list-style : none;
+}
+.puces {
+	margin-right : 1.5em;
+}
+
 .js .content:before,
 .js .content:after {
 	content: '';
