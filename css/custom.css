@@ -250,7 +250,16 @@ a:hover {
 	padding: 40px 1% 20px;
 }
 
-.content p, strong{
+.content p {
+	font-size: 1.2em;
+	line-height: 1.6;
+	font-weight: 300;
+	padding: 5px 8%;
+	text-align: justify;
+}
+
+strong{
+	font-weight : 400;
 	font-size: 1.2em;
 	line-height: 1.6;
 	font-weight: 300;
